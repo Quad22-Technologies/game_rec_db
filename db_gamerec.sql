@@ -1,3 +1,4 @@
+--- This is a test Ratisha
 CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
 
 DROP Table if EXISTS UserToGenre;
