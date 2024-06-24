@@ -1,4 +1,6 @@
----This is a test
+--- This is a test Ratisha
+-- this is a test branch
+
 CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
 
 DROP Table if EXISTS UserToGenre;
